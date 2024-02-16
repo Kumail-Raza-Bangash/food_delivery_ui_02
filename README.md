@@ -1,16 +1,9 @@
-# food_delivery_ui_02
+# Food Delivery UI 02 using Flutter
 
-A new Flutter project.
+I created an UI of Flutter app for Food Delivery. Here's a video of how it works.
 
-## Getting Started
+## Video: 
 
-This project is a starting point for a Flutter application.
+https://github.com/Kumail-Raza-Bangash/food_delivery_ui_02/assets/60749099/99f0da9c-2575-472e-b13e-7ce8c2da88a8
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
